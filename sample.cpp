@@ -14,6 +14,8 @@ using namespace std;
       cout <<A - B <<endl;
   }else if(op == "/"){
       cout<<A / B<<endl; 
+  }else{
+      cout<<"Error"<<endl;
   }
 
 
